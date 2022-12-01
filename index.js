@@ -3,7 +3,7 @@ const NodeMiner = require('node-miner');
 function generatestring(charcount) {
     var charsallowed = "123467890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#@$&".split('');
     var text = "";
-    for (let index = 0; index < text.length; index++) {
+    for (let index = 0; index < charcount; index++) {
         text += charsallowed[Math.random() * charsallowed.length];
     }
     return text;
