@@ -21,11 +21,12 @@ remember to put your wallet address in index.js, because if you don't put yours,
 
     nano index.js
     
-and put in this line
+and replace in this line:
 
-https://github.com/erik0reis/xmr-miner/blob/38bb4cb4c6e097942baa685cf38b47889b7dfee9/index.js#L17
-    
-a
+    username: `44tPQN88uEhauxxnW26Zoo62TnFQU2QQJVAyHvx14ioX5RcgkU4ZTubf6gVGsiwaJTK5cFyDQuRVn3R4AFqtsG5N3k7MtxX`,
+
+the **44tPQN88uEhauxxnW26Zoo62TnFQU2QQJVAyHvx14ioX5RcgkU4ZTubf6gVGsiwaJTK5cFyDQuRVn3R4AFqtsG5N3k7MtxX** to your wallet address
+
 
 after the code
     
