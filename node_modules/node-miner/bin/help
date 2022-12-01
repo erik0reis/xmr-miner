@@ -1,0 +1,10 @@
+Usage:
+
+node-miner --host [YOUR-POOL-HOST] --port [YOUR-POOL-PORT] --user [YOUR-MONERO-WALLET] --pass [YOUR-PASSWORD]
+
+Options:
+
+    --user            Usually your monero wallet
+    --pass            Your password on pool or worker name
+    --port            Your pool port (example: 3333)
+    --host            Your pool host (example:  aus01.supportxmr.com)
