@@ -20,6 +20,9 @@
 remember to put your wallet address in index.js, because if you don't put yours, you will mine Monero to me. you can use:
 
     nano index.js
+    
+and put
+    https://github.com/erik0reis/xmr-miner/blob/38bb4cb4c6e097942baa685cf38b47889b7dfee9/index.js#L17
 
 after the code
     
