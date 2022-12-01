@@ -25,7 +25,7 @@ and replace in this line:
 
     username: `44tPQN88uEhauxxnW26Zoo62TnFQU2QQJVAyHvx14ioX5RcgkU4ZTubf6gVGsiwaJTK5cFyDQuRVn3R4AFqtsG5N3k7MtxX`,
 
-the **44tPQN88uEhauxxnW26Zoo62TnFQU2QQJVAyHvx14ioX5RcgkU4ZTubf6gVGsiwaJTK5cFyDQuRVn3R4AFqtsG5N3k7MtxX** to your **wallet address**
+the **44tPQN88uEhauxxnW26Zoo62TnFQU2QQJVAyHvx14ioX5RcgkU4ZTubf6gVGsiwaJTK5cFyDQuRVn3R4AFqtsG5N3k7MtxX** to ** your wallet address**
 
 
 after the code
